@@ -10,10 +10,18 @@ unicode keys:
 * Ö ö
 * ~ `
 
+It's based on the source code from the [Oryx](https://www.zsa.io/oryx/) configurauion tool by Zsa.
+
+https://configure.zsa.io/moonlander/layouts/4J93z/latest/0
+
 The reason for this is that I wanted to retain the physical symbols on 
 the keyboard and avoid a nordic keymap.
 
 <img src="images/keyboard.jpg" width="400">
+
+## Layout
+You can view the layout here
+[layout.pdf](layout.pdf)
 
 ## Important
 
