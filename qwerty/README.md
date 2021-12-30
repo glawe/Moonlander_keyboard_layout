@@ -2,7 +2,7 @@
 
 # Moonlander QWERTY Mac Layout
 
-This is my personal keyboard layout for the Zsa Moonlander keyboard.
+This is my personal Mac keyboard layout for the Zsa Moonlander keyboard.
 It's using standard english iso keys with the addition of the following
 unicode keys:
 * Å å
