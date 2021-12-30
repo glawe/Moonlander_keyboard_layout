@@ -13,9 +13,13 @@ unicode keys:
 The reason for this is that I wanted to retain the physical symbols on 
 the keyboard and avoid a nordic keymap.
 
+<img src="images/keyboard.jpg" width="400">
+
 ## Important
 
-Make sure you select 'Unicode Hex Input' as Input Source on your Mac.
+Make sure you select 'Unicode Hex Input' as Input Source on your Mac.<br/>
+
+<img src="images/input.png" width="400">
 
 ## Known Issues
 * Autoshift does not yet work on the unicode keys.
