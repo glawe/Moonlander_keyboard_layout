@@ -30,4 +30,4 @@ Make sure you select 'Unicode Hex Input' as Input Source on your Mac.<br/>
 <img src="images/input.png" width="400">
 
 ## Known Issues
-* Autoshift does not yet work on the unicode keys.
+* Autoshift does not yet work with the unicode keys.
