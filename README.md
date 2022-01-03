@@ -3,7 +3,7 @@
 # My Moonlander Keyboard Layouts
 
 ## QWERTY Version
-* [Readme](qwerty/README.md)
+* [Readme](qwerty/)
 
 ## COLEMAC
 * Comming soon
