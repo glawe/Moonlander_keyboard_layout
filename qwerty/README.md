@@ -23,3 +23,9 @@ Make sure you select 'Unicode Hex Input' as Input Source on your Mac.<br/>
 
 ## Known Issues
 * Autoshift does not yet work on the unicode keys.
+
+
+## Whats new v1.1
+* Moved the arrow keys so the all sits to the right
+* Moved '[' and ']' to the left keyboard
+* Moved around ';' and '-' to better match the arrow layout
