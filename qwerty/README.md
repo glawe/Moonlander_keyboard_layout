@@ -1,4 +1,4 @@
-![image](https://res.cloudinary.com/zsa-technology/image/upload/w_121/v1637636174/zsa-io-production/moonlander-logo)
+![image]([https://res.cloudinary.com/zsa-technology/image/upload/w_121/v1637636174/zsa-io-production/moonlander-logo](https://res.cloudinary.com/zsa-technology/image/upload/f_auto/q_auto/c_scale,w_120/v1/zsa-io-refactor-prod/@moonlander/images/logos/moonlander-logo.png?_a=ATO2BAA0))
 
 # Moonlander QWERTY Mac Layout
 
